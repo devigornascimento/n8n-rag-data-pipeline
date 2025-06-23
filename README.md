@@ -1,4 +1,3 @@
-# n8n-rag-data-pipeline
 
 # Pipeline de Dados para RAG com n8n, Supabase e OpenAI
 
